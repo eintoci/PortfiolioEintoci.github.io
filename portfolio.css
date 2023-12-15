@@ -1,0 +1,17 @@
+
+.card {
+    margin: 15px; 
+}
+
+.card-img-top {
+    max-height: 600px; 
+    object-fit: cover; 
+}
+
+.card-body {
+    background-color: #f8f9fa; 
+}
+
+.card-text {
+    font-size: 16px;
+}
